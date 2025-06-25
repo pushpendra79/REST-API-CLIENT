@@ -60,4 +60,5 @@ Additionally, I developed research skills by solving implementation challenges u
 ### Final Thoughts  
 This internship task bridged the gap between theory and practice. It boosted my confidence in handling APIs, writing production-grade Java code, and effectively using tools like IntelliJ IDEA. It also taught me how to leverage online resources like ChatGPT, YouTube, and Google to solve real-world programming problems—an essential skill for any developer today.
 ## Output
-![Screenshot 2025-06-25 135403](https://github.com/user-attachments/assets/6bb7fb1c-23ec-4c1c-8c87-bbd6ce5a9ccb)
+![Screenshot 2025-06-25 135917](https://github.com/user-attachments/assets/cbcc9098-e347-4a02-a20e-ed8e318686c9)
+
